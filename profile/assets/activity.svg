@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+<title id="title">CraftPlusTeam development activity</title>
+<desc id="desc">545 commits, 8 repositories, 29 merged pull requests. Public and private repositories. Updated 2026-09-29 11:46 UTC.</desc>
+<rect width="1200" height="290" rx="24" fill="#101B2D"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<circle cx="42" cy="42" r="4" fill="#D3F989"/>
+<text x="57" y="47" fill="#C2CECD" font-size="13" letter-spacing="3">THE WORK, IN NUMBERS</text>
+<text x="40" y="160" fill="#D3F989" font-size="68" font-weight="700" letter-spacing="-2">545</text><text x="43" y="198" fill="#EDF2EF" font-size="14" letter-spacing="2">COMMITS</text>
+<text x="440" y="160" fill="#D3F989" font-size="68" font-weight="700" letter-spacing="-2">8</text><text x="443" y="198" fill="#EDF2EF" font-size="14" letter-spacing="2">REPOSITORIES</text>
+<text x="840" y="160" fill="#D3F989" font-size="68" font-weight="700" letter-spacing="-2">29</text><text x="843" y="198" fill="#EDF2EF" font-size="14" letter-spacing="2">MERGED PRS</text>
+<path d="M400 94V200M800 94V200" stroke="#31424E"/>
+<text x="43" y="257" fill="#A9BCBE" font-size="12" letter-spacing="1">PUBLIC + PRIVATE</text>
+<text x="1157" y="257" fill="#A9BCBE" font-size="12" text-anchor="end">UPDATED 2026-09-29 11:46 UTC</text>
+</g>
+</svg>

@@ -19,10 +19,11 @@ CraftPlusTeamは、アイデアを形にしながら、よりよい体験を探�
 
 <br />
 
-| 01 / IDEA | 02 / CRAFT | 03 / PLUS |
-| :--- | :--- | :--- |
-| **気づきから、はじめる。** | **細部まで、ていねいに。** | **もう一歩、よくする。** |
-| 日々の「こうだったら」を、次のアイデアに。 | 見た目も使い心地も、大切にしながら形に。 | 試して、学んで、少しずつ磨いていく。 |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CraftPlusTeam/.github/main/profile/assets/activity.svg" width="100%" alt="CraftPlusTeamのコミット数・リポジトリ数・マージ済みPR数。公開・非公開の合計。集計日時は画像内に記載。" />
+</p>
+
+<p align="center"><sub>公開・非公開リポジトリの合計 · コミット数は各デフォルトブランチの履歴を合算</sub></p>
 
 <br />
 
