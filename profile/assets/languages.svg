@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="530" viewBox="0 0 1200 530" role="img" aria-labelledby="title desc">
+<title id="title">Languages across CraftPlusTeam</title>
+<desc id="desc">TypeScript 81.2%, Swift 6.8%, CSS 6.6%, Python 3.5%, PLpgSQL 1.4%, JavaScript 0.3%, HTML 0.2%. Based on GitHub language bytes, not commit counts.</desc>
+<rect width="1200" height="530" rx="28" fill="#0D1117"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="48" y="58" fill="#00D9FF" font-size="23" font-weight="700">Languages we build with</text>
+<text x="48" y="99" fill="#8B949E" font-size="20">Across public + private repositories</text>
+<defs><clipPath id="bar"><rect x="48" y="135" width="1104" height="25" rx="12.5"/></clipPath></defs>
+<g clip-path="url(#bar)"><rect x="48" y="135" width="896.4560464997913" height="25" fill="#00D9FF"/><rect x="944.4560464997913" y="135" width="75.16015187760213" height="25" fill="#5896FF"/><rect x="1019.6161983773935" y="135" width="72.5717861905392" height="25" fill="#A78BFA"/><rect x="1092.1879845679327" y="135" width="38.45732422610625" height="25" fill="#34D399"/><rect x="1130.645308794039" y="135" width="14.959297209808932" height="25" fill="#FBBF24"/><rect x="1145.604606003848" y="135" width="3.909070513146778" height="25" fill="#FB7185"/><rect x="1149.5136765169948" y="135" width="2.486323483005385" height="25" fill="#F97316"/></g>
+<circle cx="55" cy="212" r="7" fill="#00D9FF"/><text x="76" y="220" fill="#C9D1D9" font-size="25">TypeScript</text><text x="523" y="220" fill="#E6EDF3" text-anchor="end" font-size="25" font-weight="700">81.2%</text>
+<circle cx="662" cy="212" r="7" fill="#5896FF"/><text x="683" y="220" fill="#C9D1D9" font-size="25">Swift</text><text x="1130" y="220" fill="#E6EDF3" text-anchor="end" font-size="25" font-weight="700">6.8%</text>
+<circle cx="55" cy="282" r="7" fill="#A78BFA"/><text x="76" y="290" fill="#C9D1D9" font-size="25">CSS</text><text x="523" y="290" fill="#E6EDF3" text-anchor="end" font-size="25" font-weight="700">6.6%</text>
+<circle cx="662" cy="282" r="7" fill="#34D399"/><text x="683" y="290" fill="#C9D1D9" font-size="25">Python</text><text x="1130" y="290" fill="#E6EDF3" text-anchor="end" font-size="25" font-weight="700">3.5%</text>
+<circle cx="55" cy="352" r="7" fill="#FBBF24"/><text x="76" y="360" fill="#C9D1D9" font-size="25">PLpgSQL</text><text x="523" y="360" fill="#E6EDF3" text-anchor="end" font-size="25" font-weight="700">1.4%</text>
+<circle cx="662" cy="352" r="7" fill="#FB7185"/><text x="683" y="360" fill="#C9D1D9" font-size="25">JavaScript</text><text x="1130" y="360" fill="#E6EDF3" text-anchor="end" font-size="25" font-weight="700">0.3%</text>
+<circle cx="55" cy="422" r="7" fill="#F97316"/><text x="76" y="430" fill="#C9D1D9" font-size="25">HTML</text><text x="523" y="430" fill="#E6EDF3" text-anchor="end" font-size="25" font-weight="700">0.2%</text>
+<text x="48" y="505" fill="#8B949E" font-size="17">CODE BYTES / GITHUB LINGUIST</text>
+<text x="1152" y="505" fill="#8B949E" font-size="17" text-anchor="end">2026-09-29 11:57 UTC</text>
+</g></svg>
