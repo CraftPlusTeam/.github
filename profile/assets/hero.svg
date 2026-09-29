@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">CraftPlusTeam — Make room for better.</title>
+  <desc id="desc">ネイビーの背景にライム色のプラスと、積み重なる幾何学模様を配したCraftPlusTeamのバナー。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#101B2D"/><stop offset="1" stop-color="#172D37"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" stroke="#E4F3ED" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="440" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="440" rx="24" fill="url(#grid)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="56" y="48" width="36" height="36" rx="10" fill="#D3F989"/>
+    <path d="M74 57V75M65 66H83" stroke="#142333" stroke-width="3"/>
+    <text x="106" y="73" fill="#F5F6EF" font-size="22" font-weight="700">CraftPlusTeam</text>
+    <text x="56" y="181" fill="#F5F6EF" font-size="62" font-weight="700" letter-spacing="-2">Make room</text>
+    <text x="56" y="251" fill="#D3F989" font-size="62" font-weight="700" letter-spacing="-2">for better.</text>
+    <text x="59" y="302" fill="#BCCBCB" font-size="18" letter-spacing="1">Small ideas. Thoughtfully crafted.</text>
+    <path d="M56 357H660" stroke="#B1C7C4" stroke-opacity=".2"/>
+    <text x="58" y="388" fill="#B6C9C6" font-size="12" letter-spacing="3">IDEA / CRAFT / PLUS</text>
+  </g>
+  <g transform="translate(815 94)">
+    <rect x="42" y="72" width="218" height="218" rx="40" transform="rotate(15 151 181)" stroke="#D3F989" stroke-opacity=".18"/>
+    <rect x="18" y="37" width="218" height="218" rx="40" transform="rotate(-8 127 146)" fill="#213F46" stroke="#7DABA1" stroke-opacity=".45"/>
+    <rect width="218" height="218" rx="40" fill="#D3F989"/>
+    <path d="M109 62V156M62 109H156" stroke="#172D37" stroke-width="22" stroke-linecap="round"/>
+    <circle cx="263" cy="14" r="7" fill="#D3F989"/>
+    <path d="M-40 218V240M-51 229H-29" stroke="#7DABA1" stroke-width="2"/>
+  </g>
+</svg>
