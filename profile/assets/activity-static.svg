@@ -1,11 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="658" viewBox="0 0 1200 658" role="img" aria-labelledby="title desc">
 <title id="title">CraftPlusTeam — the people behind the commits</title>
 <desc id="desc">Pui-core: 482 commits. yh1110: 61 commits. Other or unlinked authors: 4. Updated 2026-09-29 11:57 UTC.</desc>
-<style>
-.bar { animation: reveal 1.4s cubic-bezier(.2,.7,.2,1) both; transform-box:fill-box; transform-origin:left; }
-@keyframes reveal { from { transform:scaleX(0) } to { transform:scaleX(1) } }
-@media (prefers-reduced-motion:reduce) { .bar { animation:none } }
-</style>
+
 <rect width="1200" height="658" rx="28" fill="#0D1117"/>
 <g font-family="Arial, Helvetica, sans-serif">
 <text x="48" y="58" fill="#8B949E" font-size="19" letter-spacing="3">TEAM / CONTRIBUTIONS</text>

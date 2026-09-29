@@ -1,14 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
 <title id="title">CraftPlusTeam — Build together. Ship something real.</title>
 <desc id="desc">黒とシアンの波形ヘッダー。キャッチコピーがタイプされ、波がゆっくり動きます。</desc>
-<style>
-.wave { animation:drift 10s ease-in-out infinite alternate }
-.wave-back { animation:drift 15s ease-in-out infinite alternate-reverse }
-.type-reveal { animation:typing 8s steps(35,end) infinite }
-@keyframes drift { from { transform:translateX(-45px) } to { transform:translateX(30px) } }
-@keyframes typing { 0%,8% { width:0 } 52%,92% { width:760px } 100% { width:0 } }
-@media (prefers-reduced-motion:reduce) { .wave,.wave-back,.type-reveal { animation:none } }
-</style>
+
 <defs>
 <linearGradient id="wave" x1="0" x2="1"><stop stop-color="#003D59"/><stop offset=".52" stop-color="#00D9FF"/><stop offset="1" stop-color="#005376"/></linearGradient>
 <clipPath id="frame"><rect width="1200" height="380" rx="24"/></clipPath>
